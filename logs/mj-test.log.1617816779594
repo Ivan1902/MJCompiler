@@ -1,0 +1,355 @@
+INFO  19:31:21,467 - Compiling source file: C:\Users\Nedeljkovic\Desktop\PP\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:31:21,516 - #2 program
+INFO  19:31:21,517 - #48 test301
+INFO  19:31:21,517 - #7 const
+INFO  19:31:21,518 - #48 int
+INFO  19:31:21,518 - #48 nula
+INFO  19:31:21,519 - #33 =
+INFO  19:31:21,519 - #47 0
+INFO  19:31:21,519 - #36 ;
+INFO  19:31:21,519 - #7 const
+INFO  19:31:21,520 - #48 int
+INFO  19:31:21,520 - #48 jedan
+INFO  19:31:21,520 - #33 =
+INFO  19:31:21,521 - #47 1
+INFO  19:31:21,521 - #36 ;
+INFO  19:31:21,521 - #7 const
+INFO  19:31:21,521 - #48 int
+INFO  19:31:21,521 - #48 pet
+INFO  19:31:21,521 - #33 =
+INFO  19:31:21,521 - #47 5
+INFO  19:31:21,521 - #36 ;
+INFO  19:31:21,529 - #48 int
+INFO  19:31:21,530 - #48 niz
+INFO  19:31:21,530 - #41 [
+INFO  19:31:21,530 - #42 ]
+INFO  19:31:21,530 - #36 ;
+INFO  19:31:21,532 - #48 char
+INFO  19:31:21,533 - #48 nizch
+INFO  19:31:21,533 - #41 [
+INFO  19:31:21,533 - #42 ]
+INFO  19:31:21,533 - #36 ;
+INFO  19:31:21,533 - #43 {
+INFO  19:31:21,533 - #48 int
+INFO  19:31:21,534 - #48 zbir
+INFO  19:31:21,534 - #39 (
+INFO  19:31:21,535 - #48 int
+INFO  19:31:21,535 - #48 x
+INFO  19:31:21,535 - #37 ,
+INFO  19:31:21,536 - #48 int
+INFO  19:31:21,537 - #48 y
+INFO  19:31:21,537 - #40 )
+INFO  19:31:21,537 - #48 int
+INFO  19:31:21,538 - #48 suma
+INFO  19:31:21,538 - #36 ;
+INFO  19:31:21,538 - #43 {
+INFO  19:31:21,539 - #48 suma
+INFO  19:31:21,539 - #33 =
+INFO  19:31:21,540 - #48 x
+INFO  19:31:21,540 - #20 +
+INFO  19:31:21,541 - #48 y
+INFO  19:31:21,542 - #36 ;
+INFO  19:31:21,543 - #15 return
+INFO  19:31:21,543 - #48 suma
+INFO  19:31:21,543 - #36 ;
+INFO  19:31:21,543 - #44 }
+INFO  19:31:21,543 - #16 void
+INFO  19:31:21,544 - #48 main
+INFO  19:31:21,544 - #39 (
+INFO  19:31:21,544 - #40 )
+INFO  19:31:21,544 - #48 int
+INFO  19:31:21,544 - #48 bodovi
+INFO  19:31:21,544 - #36 ;
+INFO  19:31:21,544 - #48 bool
+INFO  19:31:21,545 - #48 bt
+INFO  19:31:21,545 - #36 ;
+INFO  19:31:21,545 - #43 {
+INFO  19:31:21,545 - #48 bt
+INFO  19:31:21,545 - #33 =
+INFO  19:31:21,545 - #49 false
+INFO  19:31:21,545 - #36 ;
+INFO  19:31:21,545 - #13 print
+INFO  19:31:21,546 - #39 (
+INFO  19:31:21,546 - #48 bt
+INFO  19:31:21,546 - #40 )
+INFO  19:31:21,546 - #36 ;
+INFO  19:31:21,546 - #44 }
+INFO  19:31:21,546 - #44 }
+INFO  19:31:21,556 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  DeclListMore(
+    DeclListMore(
+      DeclListMore(
+        DeclListMore(
+          DeclListMore(
+            NoDeclList(
+            ) [NoDeclList]
+            ConstDeclarations(
+              ConstDecl(
+                Type(
+                 int
+                ) [Type]
+                ConstListTerminate(
+                  ConstNum(
+                   nula
+                   0
+                  ) [ConstNum]
+                ) [ConstListTerminate]
+              ) [ConstDecl]
+            ) [ConstDeclarations]
+          ) [DeclListMore]
+          ConstDeclarations(
+            ConstDecl(
+              Type(
+               int
+              ) [Type]
+              ConstListTerminate(
+                ConstNum(
+                 jedan
+                 1
+                ) [ConstNum]
+              ) [ConstListTerminate]
+            ) [ConstDecl]
+          ) [ConstDeclarations]
+        ) [DeclListMore]
+        ConstDeclarations(
+          ConstDecl(
+            Type(
+             int
+            ) [Type]
+            ConstListTerminate(
+              ConstNum(
+               pet
+               5
+              ) [ConstNum]
+            ) [ConstListTerminate]
+          ) [ConstDecl]
+        ) [ConstDeclarations]
+      ) [DeclListMore]
+      VarDeclarations(
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          VarListTerminate(
+            VarIdentif(
+             niz
+              Brackets(
+              ) [Brackets]
+            ) [VarIdentif]
+          ) [VarListTerminate]
+        ) [VarDeclar]
+      ) [VarDeclarations]
+    ) [DeclListMore]
+    VarDeclarations(
+      VarDeclar(
+        Type(
+         char
+        ) [Type]
+        VarListTerminate(
+          VarIdentif(
+           nizch
+            Brackets(
+            ) [Brackets]
+          ) [VarIdentif]
+        ) [VarListTerminate]
+      ) [VarDeclar]
+    ) [VarDeclarations]
+  ) [DeclListMore]
+  MethodDeclListMore(
+    MethodDeclListMore(
+      NoMethodDeclList(
+      ) [NoMethodDeclList]
+      MethodDeclWithFormPars(
+        MethTypeName(
+          Type(
+           int
+          ) [Type]
+         zbir
+        ) [MethTypeName]
+        FormPars(
+          FormParsListMore(
+            FormParsListTerminate(
+              FormPar(
+                Type(
+                 int
+                ) [Type]
+               x
+                NoBrackets(
+                ) [NoBrackets]
+              ) [FormPar]
+            ) [FormParsListTerminate]
+            FormPar(
+              Type(
+               int
+              ) [Type]
+             y
+              NoBrackets(
+              ) [NoBrackets]
+            ) [FormPar]
+          ) [FormParsListMore]
+        ) [FormPars]
+        VarDeclListMore(
+          NoVarDeclList(
+          ) [NoVarDeclList]
+          VarDeclar(
+            Type(
+             int
+            ) [Type]
+            VarListTerminate(
+              VarIdentif(
+               suma
+                NoBrackets(
+                ) [NoBrackets]
+              ) [VarIdentif]
+            ) [VarListTerminate]
+          ) [VarDeclar]
+        ) [VarDeclListMore]
+        StatementListMore(
+          StatementListMore(
+            NoStatementList(
+            ) [NoStatementList]
+            DesigStat(
+              DesigStatAssingopExpr(
+                DesignatorIdent(
+                 suma
+                ) [DesignatorIdent]
+                NoTernaryOperator(
+                  Expr12(
+                    TermTerminate(
+                      FactDesign(
+                        DesignatorIdent(
+                         x
+                        ) [DesignatorIdent]
+                      ) [FactDesign]
+                    ) [TermTerminate]
+                    AddopTermListMore(
+                      NoAddopTermList(
+                      ) [NoAddopTermList]
+                      AddopPlus(
+                      ) [AddopPlus]
+                      TermTerminate(
+                        FactDesign(
+                          DesignatorIdent(
+                           y
+                          ) [DesignatorIdent]
+                        ) [FactDesign]
+                      ) [TermTerminate]
+                    ) [AddopTermListMore]
+                  ) [Expr12]
+                ) [NoTernaryOperator]
+              ) [DesigStatAssingopExpr]
+            ) [DesigStat]
+          ) [StatementListMore]
+          ReturnExprStat(
+            NoTernaryOperator(
+              Expr12(
+                TermTerminate(
+                  FactDesign(
+                    DesignatorIdent(
+                     suma
+                    ) [DesignatorIdent]
+                  ) [FactDesign]
+                ) [TermTerminate]
+                NoAddopTermList(
+                ) [NoAddopTermList]
+              ) [Expr12]
+            ) [NoTernaryOperator]
+          ) [ReturnExprStat]
+        ) [StatementListMore]
+      ) [MethodDeclWithFormPars]
+    ) [MethodDeclListMore]
+    MethodDeclWithoutFormPars(
+      MethVoidName(
+       main
+      ) [MethVoidName]
+      VarDeclListMore(
+        VarDeclListMore(
+          NoVarDeclList(
+          ) [NoVarDeclList]
+          VarDeclar(
+            Type(
+             int
+            ) [Type]
+            VarListTerminate(
+              VarIdentif(
+               bodovi
+                NoBrackets(
+                ) [NoBrackets]
+              ) [VarIdentif]
+            ) [VarListTerminate]
+          ) [VarDeclar]
+        ) [VarDeclListMore]
+        VarDeclar(
+          Type(
+           bool
+          ) [Type]
+          VarListTerminate(
+            VarIdentif(
+             bt
+              NoBrackets(
+              ) [NoBrackets]
+            ) [VarIdentif]
+          ) [VarListTerminate]
+        ) [VarDeclar]
+      ) [VarDeclListMore]
+      StatementListMore(
+        StatementListMore(
+          NoStatementList(
+          ) [NoStatementList]
+          DesigStat(
+            DesigStatAssingopExpr(
+              DesignatorIdent(
+               bt
+              ) [DesignatorIdent]
+              NoTernaryOperator(
+                Expr12(
+                  TermTerminate(
+                    FactBool(
+                     false
+                    ) [FactBool]
+                  ) [TermTerminate]
+                  NoAddopTermList(
+                  ) [NoAddopTermList]
+                ) [Expr12]
+              ) [NoTernaryOperator]
+            ) [DesigStatAssingopExpr]
+          ) [DesigStat]
+        ) [StatementListMore]
+        PrintStat(
+          NoTernaryOperator(
+            Expr12(
+              TermTerminate(
+                FactDesign(
+                  DesignatorIdent(
+                   bt
+                  ) [DesignatorIdent]
+                ) [FactDesign]
+              ) [TermTerminate]
+              NoAddopTermList(
+              ) [NoAddopTermList]
+            ) [Expr12]
+          ) [NoTernaryOperator]
+        ) [PrintStat]
+      ) [StatementListMore]
+    ) [MethodDeclWithoutFormPars]
+  ) [MethodDeclListMore]
+) [Program]
+INFO  19:31:21,557 - ===================================
+INFO  19:31:21,560 - Deklarisana konstanta nula koja je tipa :int na liniji 5
+INFO  19:31:21,560 - Deklarisana konstanta jedan koja je tipa :int na liniji 6
+INFO  19:31:21,560 - Deklarisana konstanta pet koja je tipa :int na liniji 7
+INFO  19:31:21,560 - Deklarisana promenljiva niz koja je tipa :int[] na liniji 9
+INFO  19:31:21,560 - Deklarisana promenljiva nizch koja je tipa :char[] na liniji 10
+INFO  19:31:21,560 - Deklarisana metoda:zbir na liniji 13
+INFO  19:31:21,560 - Deklarisan argument x koji je tipa :int na liniji 13
+INFO  19:31:21,560 - Deklarisan argument y koji je tipa :int na liniji 13
+INFO  19:31:21,560 - Deklarisana promenljiva suma koja je tipa :int na liniji 14
+INFO  19:31:21,561 - Deklarisana metoda:main na liniji 21
+INFO  19:31:21,561 - Deklarisana promenljiva bodovi koja je tipa :int na liniji 22
+INFO  19:31:21,561 - Deklarisana promenljiva bt koja je tipa :bool na liniji 23
+INFO  19:31:21,561 - ===================================
+INFO  19:31:21,561 - Deklarisana je main funkcija!
+INFO  19:31:21,566 - Uspesno izvrsena semanticka analiza!!!

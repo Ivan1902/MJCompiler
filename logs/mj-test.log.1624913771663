@@ -1,0 +1,247 @@
+INFO  22:55:11,269 - Compiling source file: C:\Users\Nedeljkovic\Desktop\PP\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:55:11,328 - #2 program
+INFO  22:55:11,328 - #48 test301
+INFO  22:55:11,329 - #43 {
+INFO  22:55:11,331 - #16 void
+INFO  22:55:11,332 - #48 main
+INFO  22:55:11,332 - #39 (
+INFO  22:55:11,332 - #40 )
+INFO  22:55:11,332 - #48 int
+INFO  22:55:11,333 - #48 bodovi
+INFO  22:55:11,334 - #36 ;
+INFO  22:55:11,336 - #43 {
+INFO  22:55:11,337 - #48 bodovi
+INFO  22:55:11,338 - #33 =
+INFO  22:55:11,339 - #47 5
+INFO  22:55:11,339 - #36 ;
+INFO  22:55:11,341 - #8 if
+INFO  22:55:11,342 - #39 (
+INFO  22:55:11,343 - #48 bodovi
+INFO  22:55:11,343 - #25 ==
+INFO  22:55:11,343 - #47 5
+INFO  22:55:11,352 - #31 &&
+INFO  22:55:11,353 - #48 bodovi
+INFO  22:55:11,353 - #25 ==
+INFO  22:55:11,353 - #47 4
+INFO  22:55:11,353 - #32 ||
+INFO  22:55:11,353 - #48 bodovi
+INFO  22:55:11,354 - #25 ==
+INFO  22:55:11,354 - #47 4
+INFO  22:55:11,354 - #40 )
+INFO  22:55:11,354 - #48 bodovi
+INFO  22:55:11,355 - #33 =
+INFO  22:55:11,355 - #47 3
+INFO  22:55:11,355 - #36 ;
+INFO  22:55:11,355 - #6 else
+INFO  22:55:11,356 - #48 bodovi
+INFO  22:55:11,357 - #33 =
+INFO  22:55:11,357 - #47 2
+INFO  22:55:11,358 - #36 ;
+INFO  22:55:11,358 - #13 print
+INFO  22:55:11,358 - #39 (
+INFO  22:55:11,358 - #48 bodovi
+INFO  22:55:11,359 - #40 )
+INFO  22:55:11,359 - #36 ;
+INFO  22:55:11,359 - #44 }
+INFO  22:55:11,359 - #44 }
+INFO  22:55:11,376 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NoDeclList(
+  ) [NoDeclList]
+  MethodDeclListMore(
+    NoMethodDeclList(
+    ) [NoMethodDeclList]
+    MethodDeclWithoutFormPars(
+      MethVoidName(
+       main
+      ) [MethVoidName]
+      VarDeclListMore(
+        NoVarDeclList(
+        ) [NoVarDeclList]
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          VarListTerminate(
+            VarIdentif(
+             bodovi
+              NoBrackets(
+              ) [NoBrackets]
+            ) [VarIdentif]
+          ) [VarListTerminate]
+        ) [VarDeclar]
+      ) [VarDeclListMore]
+      StatementListMore(
+        StatementListMore(
+          StatementListMore(
+            NoStatementList(
+            ) [NoStatementList]
+            DesigStat(
+              DesigStatAssingopExpr(
+                DesignatorIdent(
+                 bodovi
+                ) [DesignatorIdent]
+                Expr12(
+                  TermTerminate(
+                    FactNum(
+                     5
+                    ) [FactNum]
+                  ) [TermTerminate]
+                  NoAddopTermList(
+                  ) [NoAddopTermList]
+                ) [Expr12]
+              ) [DesigStatAssingopExpr]
+            ) [DesigStat]
+          ) [StatementListMore]
+          IfElseStat(
+            ConditionMore(
+              ConditionTerminate(
+                CondTermMore(
+                  CondTermTerminate(
+                    CondFactMore(
+                      Expr12(
+                        TermTerminate(
+                          FactDesign(
+                            DesignatorIdent(
+                             bodovi
+                            ) [DesignatorIdent]
+                          ) [FactDesign]
+                        ) [TermTerminate]
+                        NoAddopTermList(
+                        ) [NoAddopTermList]
+                      ) [Expr12]
+                      RelopEqEq(
+                      ) [RelopEqEq]
+                      Expr12(
+                        TermTerminate(
+                          FactNum(
+                           5
+                          ) [FactNum]
+                        ) [TermTerminate]
+                        NoAddopTermList(
+                        ) [NoAddopTermList]
+                      ) [Expr12]
+                    ) [CondFactMore]
+                  ) [CondTermTerminate]
+                  CondFactMore(
+                    Expr12(
+                      TermTerminate(
+                        FactDesign(
+                          DesignatorIdent(
+                           bodovi
+                          ) [DesignatorIdent]
+                        ) [FactDesign]
+                      ) [TermTerminate]
+                      NoAddopTermList(
+                      ) [NoAddopTermList]
+                    ) [Expr12]
+                    RelopEqEq(
+                    ) [RelopEqEq]
+                    Expr12(
+                      TermTerminate(
+                        FactNum(
+                         4
+                        ) [FactNum]
+                      ) [TermTerminate]
+                      NoAddopTermList(
+                      ) [NoAddopTermList]
+                    ) [Expr12]
+                  ) [CondFactMore]
+                ) [CondTermMore]
+              ) [ConditionTerminate]
+              OrOperator(
+              ) [OrOperator]
+              CondTermTerminate(
+                CondFactMore(
+                  Expr12(
+                    TermTerminate(
+                      FactDesign(
+                        DesignatorIdent(
+                         bodovi
+                        ) [DesignatorIdent]
+                      ) [FactDesign]
+                    ) [TermTerminate]
+                    NoAddopTermList(
+                    ) [NoAddopTermList]
+                  ) [Expr12]
+                  RelopEqEq(
+                  ) [RelopEqEq]
+                  Expr12(
+                    TermTerminate(
+                      FactNum(
+                       4
+                      ) [FactNum]
+                    ) [TermTerminate]
+                    NoAddopTermList(
+                    ) [NoAddopTermList]
+                  ) [Expr12]
+                ) [CondFactMore]
+              ) [CondTermTerminate]
+            ) [ConditionMore]
+            Then1(
+              ThenZakrpiDerived1(
+              ) [ThenZakrpiDerived1]
+              DesigStat(
+                DesigStatAssingopExpr(
+                  DesignatorIdent(
+                   bodovi
+                  ) [DesignatorIdent]
+                  Expr12(
+                    TermTerminate(
+                      FactNum(
+                       3
+                      ) [FactNum]
+                    ) [TermTerminate]
+                    NoAddopTermList(
+                    ) [NoAddopTermList]
+                  ) [Expr12]
+                ) [DesigStatAssingopExpr]
+              ) [DesigStat]
+            ) [Then1]
+            ElseStmt(
+              ElseZakrpiDerived1(
+              ) [ElseZakrpiDerived1]
+              DesigStat(
+                DesigStatAssingopExpr(
+                  DesignatorIdent(
+                   bodovi
+                  ) [DesignatorIdent]
+                  Expr12(
+                    TermTerminate(
+                      FactNum(
+                       2
+                      ) [FactNum]
+                    ) [TermTerminate]
+                    NoAddopTermList(
+                    ) [NoAddopTermList]
+                  ) [Expr12]
+                ) [DesigStatAssingopExpr]
+              ) [DesigStat]
+            ) [ElseStmt]
+          ) [IfElseStat]
+        ) [StatementListMore]
+        PrintStat(
+          Expr12(
+            TermTerminate(
+              FactDesign(
+                DesignatorIdent(
+                 bodovi
+                ) [DesignatorIdent]
+              ) [FactDesign]
+            ) [TermTerminate]
+            NoAddopTermList(
+            ) [NoAddopTermList]
+          ) [Expr12]
+        ) [PrintStat]
+      ) [StatementListMore]
+    ) [MethodDeclWithoutFormPars]
+  ) [MethodDeclListMore]
+) [Program]
+INFO  22:55:11,378 - ===================================
+INFO  22:55:11,383 - Deklarisana metoda:main na liniji 6
+INFO  22:55:11,384 - Deklarisana promenljiva bodovi koja je tipa :int na liniji 7
+INFO  22:55:11,385 - ===================================
+INFO  22:55:11,386 - Deklarisana je main funkcija!
+INFO  22:55:11,397 - Uspesno izvrsena semanticka analiza!!!

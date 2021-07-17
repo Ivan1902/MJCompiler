@@ -1,0 +1,59 @@
+INFO  12:29:34,125 - Compiling source file: C:\Users\Nedeljkovic\Desktop\PP\Video tutorijali\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:29:34,298 - #2 program
+INFO  12:29:34,298 - #48 MJProgram
+INFO  12:29:34,298 - #48 int
+INFO  12:29:34,301 - #48 x
+INFO  12:29:34,303 - #37 ,
+INFO  12:29:34,307 - #48 s
+INFO  12:29:34,308 - #21 -
+ERROR 12:29:34,308 - 
+Sintaksna greska na liniji 2: -
+INFO  12:29:34,308 - #37 ,
+INFO  12:29:34,308 - #48 gl
+INFO  12:29:34,309 - #20 +
+INFO  12:29:34,310 - #36 ;
+INFO  12:29:34,311 - #48 int
+INFO  12:29:34,311 - #21 -
+INFO  12:29:34,311 - #48 k
+INFO  12:29:34,312 - #37 ,
+INFO  12:29:34,312 - #48 y
+INFO  12:29:34,312 - #36 ;
+INFO  12:29:34,313 - #48 int
+INFO  12:29:34,325 - #48 p
+INFO  12:29:34,325 - #20 +
+ERROR 12:29:34,325 - 
+Sintaksna greska na liniji 4: +
+INFO  12:29:34,325 - #36 ;
+INFO  12:29:34,326 - #48 bool
+INFO  12:29:34,326 - #48 f
+INFO  12:29:34,326 - #21 -
+ERROR 12:29:34,326 - 
+Sintaksna greska na liniji 5: -
+INFO  12:29:34,326 - #36 ;
+INFO  12:29:34,326 - #7 const
+INFO  12:29:34,327 - #48 int
+INFO  12:29:34,327 - #48 p
+INFO  12:29:34,327 - #33 =
+INFO  12:29:34,327 - #47 5
+INFO  12:29:34,327 - #36 ;
+INFO  12:29:34,328 - #43 {
+INFO  12:29:34,331 - #48 int
+INFO  12:29:34,333 - #48 main
+INFO  12:29:34,333 - #39 (
+INFO  12:29:34,333 - #40 )
+INFO  12:29:34,334 - #43 {
+INFO  12:29:34,336 - #13 print
+INFO  12:29:34,338 - #39 (
+INFO  12:29:34,338 - #48 y
+INFO  12:29:34,338 - #40 )
+INFO  12:29:34,345 - #36 ;
+INFO  12:29:34,345 - #48 x
+INFO  12:29:34,346 - #33 =
+INFO  12:29:34,346 - #47 5
+INFO  12:29:34,348 - #36 ;
+INFO  12:29:34,349 - #48 y
+INFO  12:29:34,349 - #33 =
+INFO  12:29:34,349 - #36 ;
+ERROR 12:29:34,349 - 
+Sintaksna greska na liniji 13: ;
+ERROR 12:29:34,350 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 13: ;

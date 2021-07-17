@@ -1,0 +1,42 @@
+program testCorrect
+
+	const int nula = 0;
+	const int jedan = 1;
+	
+	const bool flag = false;
+	
+	int niz[];
+	char nizch[];
+	
+{
+	void main() 
+		int lokalna;
+	{
+	
+		niz = new int[3];
+	
+		niz[nula] = nula;
+		niz[jedan - 0] = jedan;
+		niz[jedan + jedan] = 2;
+		
+		print(niz[2]);
+		
+		lokalna = niz[0] + niz[1] + niz[2];
+		
+		print(lokalna);
+		
+		nizch = new char[3];
+		
+		nizch[nula] = 'a';
+		nizch[jedan - 0] = 'b';
+		nizch[jedan + jedan] = 'c';
+		
+		print(nizch[jedan]);
+		
+		if(nizch[jedan + jedan] == 'a' && nizch[0] == 'a' || niz[nula] == nula) lokalna = 5;
+		else lokalna = 4;
+		
+		print(lokalna);
+	
+	}
+}

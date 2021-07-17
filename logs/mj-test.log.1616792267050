@@ -1,0 +1,1345 @@
+INFO  21:52:26,778 - Compiling source file: C:\Users\Nedeljkovic\Desktop\PP\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:52:26,821 - #2 program
+INFO  21:52:26,822 - #48 test301
+INFO  21:52:26,822 - #7 const
+INFO  21:52:26,823 - #48 int
+INFO  21:52:26,823 - #48 nula
+INFO  21:52:26,824 - #33 =
+INFO  21:52:26,824 - #47 0
+INFO  21:52:26,824 - #36 ;
+INFO  21:52:26,824 - #7 const
+INFO  21:52:26,825 - #48 int
+INFO  21:52:26,825 - #48 jedan
+INFO  21:52:26,825 - #33 =
+INFO  21:52:26,825 - #47 1
+INFO  21:52:26,825 - #36 ;
+INFO  21:52:26,826 - #7 const
+INFO  21:52:26,826 - #48 int
+INFO  21:52:26,826 - #48 pet
+INFO  21:52:26,826 - #33 =
+INFO  21:52:26,826 - #47 5
+INFO  21:52:26,826 - #36 ;
+INFO  21:52:26,835 - #48 int
+INFO  21:52:26,835 - #48 niz
+INFO  21:52:26,835 - #41 [
+INFO  21:52:26,835 - #42 ]
+INFO  21:52:26,835 - #36 ;
+INFO  21:52:26,837 - #48 char
+INFO  21:52:26,838 - #48 nizch
+INFO  21:52:26,838 - #41 [
+INFO  21:52:26,838 - #42 ]
+INFO  21:52:26,838 - #36 ;
+INFO  21:52:26,838 - #43 {
+INFO  21:52:26,838 - #48 int
+INFO  21:52:26,839 - #48 zbir
+INFO  21:52:26,839 - #39 (
+INFO  21:52:26,839 - #48 int
+INFO  21:52:26,840 - #48 x
+INFO  21:52:26,840 - #37 ,
+INFO  21:52:26,841 - #48 int
+INFO  21:52:26,841 - #48 y
+INFO  21:52:26,841 - #40 )
+INFO  21:52:26,842 - #43 {
+INFO  21:52:26,843 - #48 int
+INFO  21:52:26,843 - #48 suma
+ERROR 21:52:26,843 - 
+Sintaksna greska na liniji 14: suma
+INFO  21:52:26,843 - #36 ;
+INFO  21:52:26,843 - #48 suma
+INFO  21:52:26,843 - #33 =
+ERROR 21:52:26,844 - 
+Sintaksna greska na liniji 15: =
+INFO  21:52:26,844 - #48 x
+INFO  21:52:26,844 - #20 +
+INFO  21:52:26,844 - #48 y
+INFO  21:52:26,844 - #36 ;
+INFO  21:52:26,844 - #15 return
+INFO  21:52:26,845 - #48 suma
+INFO  21:52:26,845 - #36 ;
+INFO  21:52:26,845 - #44 }
+INFO  21:52:26,845 - #16 void
+INFO  21:52:26,845 - #48 main
+INFO  21:52:26,845 - #39 (
+INFO  21:52:26,845 - #40 )
+INFO  21:52:26,845 - #48 int
+INFO  21:52:26,845 - #48 bodovi
+INFO  21:52:26,845 - #36 ;
+INFO  21:52:26,845 - #48 bool
+INFO  21:52:26,845 - #48 bt
+INFO  21:52:26,845 - #36 ;
+INFO  21:52:26,845 - #43 {
+INFO  21:52:26,845 - #48 bodovi
+INFO  21:52:26,846 - #33 =
+INFO  21:52:26,846 - #47 0
+INFO  21:52:26,846 - #36 ;
+INFO  21:52:26,847 - #48 bodovi
+INFO  21:52:26,847 - #34 ++
+INFO  21:52:26,847 - #36 ;
+INFO  21:52:26,847 - #48 bodovi
+INFO  21:52:26,847 - #33 =
+INFO  21:52:26,847 - #48 bodovi
+INFO  21:52:26,847 - #20 +
+INFO  21:52:26,847 - #48 jedan
+INFO  21:52:26,848 - #36 ;
+INFO  21:52:26,848 - #48 bodovi
+INFO  21:52:26,848 - #33 =
+INFO  21:52:26,849 - #48 bodovi
+INFO  21:52:26,849 - #22 *
+INFO  21:52:26,849 - #48 pet
+INFO  21:52:26,849 - #36 ;
+INFO  21:52:26,850 - #48 bodovi
+INFO  21:52:26,850 - #35 --
+INFO  21:52:26,850 - #36 ;
+INFO  21:52:26,850 - #13 print
+INFO  21:52:26,850 - #39 (
+INFO  21:52:26,850 - #48 bodovi
+INFO  21:52:26,850 - #40 )
+INFO  21:52:26,850 - #36 ;
+INFO  21:52:26,850 - #48 niz
+INFO  21:52:26,850 - #33 =
+INFO  21:52:26,850 - #12 new
+INFO  21:52:26,850 - #48 int
+INFO  21:52:26,851 - #41 [
+INFO  21:52:26,851 - #47 3
+INFO  21:52:26,851 - #42 ]
+INFO  21:52:26,851 - #36 ;
+INFO  21:52:26,851 - #48 niz
+INFO  21:52:26,851 - #41 [
+INFO  21:52:26,851 - #48 nula
+INFO  21:52:26,851 - #42 ]
+INFO  21:52:26,851 - #33 =
+INFO  21:52:26,851 - #48 jedan
+INFO  21:52:26,851 - #36 ;
+INFO  21:52:26,851 - #48 niz
+INFO  21:52:26,851 - #41 [
+INFO  21:52:26,851 - #47 1
+INFO  21:52:26,851 - #42 ]
+INFO  21:52:26,852 - #33 =
+INFO  21:52:26,852 - #47 2
+INFO  21:52:26,852 - #36 ;
+INFO  21:52:26,852 - #48 niz
+INFO  21:52:26,852 - #41 [
+INFO  21:52:26,852 - #48 niz
+INFO  21:52:26,852 - #41 [
+INFO  21:52:26,852 - #48 jedan
+INFO  21:52:26,852 - #42 ]
+INFO  21:52:26,852 - #42 ]
+INFO  21:52:26,852 - #33 =
+INFO  21:52:26,852 - #48 niz
+INFO  21:52:26,852 - #41 [
+INFO  21:52:26,852 - #48 niz
+INFO  21:52:26,852 - #41 [
+INFO  21:52:26,853 - #47 0
+INFO  21:52:26,853 - #42 ]
+INFO  21:52:26,853 - #42 ]
+INFO  21:52:26,853 - #22 *
+INFO  21:52:26,853 - #47 3
+INFO  21:52:26,853 - #36 ;
+INFO  21:52:26,853 - #48 bodovi
+INFO  21:52:26,853 - #33 =
+INFO  21:52:26,853 - #48 niz
+INFO  21:52:26,853 - #41 [
+INFO  21:52:26,853 - #47 2
+INFO  21:52:26,853 - #42 ]
+INFO  21:52:26,853 - #23 /
+INFO  21:52:26,853 - #48 niz
+INFO  21:52:26,854 - #41 [
+INFO  21:52:26,854 - #47 0
+INFO  21:52:26,854 - #42 ]
+INFO  21:52:26,854 - #36 ;
+INFO  21:52:26,854 - #13 print
+INFO  21:52:26,854 - #39 (
+INFO  21:52:26,854 - #48 bodovi
+INFO  21:52:26,854 - #40 )
+INFO  21:52:26,854 - #36 ;
+INFO  21:52:26,854 - #13 print
+INFO  21:52:26,854 - #39 (
+INFO  21:52:26,855 - #48 niz
+INFO  21:52:26,855 - #41 [
+INFO  21:52:26,855 - #47 2
+INFO  21:52:26,855 - #42 ]
+INFO  21:52:26,855 - #40 )
+INFO  21:52:26,855 - #36 ;
+INFO  21:52:26,855 - #48 nizch
+INFO  21:52:26,855 - #33 =
+INFO  21:52:26,855 - #12 new
+INFO  21:52:26,855 - #48 char
+INFO  21:52:26,855 - #41 [
+INFO  21:52:26,855 - #47 3
+INFO  21:52:26,855 - #42 ]
+INFO  21:52:26,855 - #36 ;
+INFO  21:52:26,855 - #48 nizch
+INFO  21:52:26,855 - #41 [
+INFO  21:52:26,855 - #47 0
+INFO  21:52:26,855 - #42 ]
+INFO  21:52:26,855 - #33 =
+INFO  21:52:26,855 - #50 a
+INFO  21:52:26,856 - #36 ;
+INFO  21:52:26,856 - #48 nizch
+INFO  21:52:26,856 - #41 [
+INFO  21:52:26,856 - #48 jedan
+INFO  21:52:26,856 - #42 ]
+INFO  21:52:26,856 - #33 =
+INFO  21:52:26,856 - #50 b
+INFO  21:52:26,856 - #36 ;
+INFO  21:52:26,856 - #48 nizch
+INFO  21:52:26,856 - #41 [
+INFO  21:52:26,856 - #48 pet
+INFO  21:52:26,856 - #21 -
+INFO  21:52:26,856 - #47 3
+INFO  21:52:26,857 - #42 ]
+INFO  21:52:26,857 - #33 =
+INFO  21:52:26,857 - #50 c
+INFO  21:52:26,857 - #36 ;
+INFO  21:52:26,857 - #13 print
+INFO  21:52:26,857 - #39 (
+INFO  21:52:26,857 - #48 nizch
+INFO  21:52:26,857 - #41 [
+INFO  21:52:26,857 - #47 1
+INFO  21:52:26,857 - #42 ]
+INFO  21:52:26,857 - #40 )
+INFO  21:52:26,857 - #36 ;
+INFO  21:52:26,857 - #13 print
+INFO  21:52:26,857 - #39 (
+INFO  21:52:26,857 - #48 nizch
+INFO  21:52:26,857 - #41 [
+INFO  21:52:26,857 - #48 jedan
+INFO  21:52:26,857 - #22 *
+INFO  21:52:26,858 - #47 2
+INFO  21:52:26,858 - #42 ]
+INFO  21:52:26,858 - #40 )
+INFO  21:52:26,858 - #36 ;
+INFO  21:52:26,858 - #48 bodovi
+INFO  21:52:26,858 - #33 =
+INFO  21:52:26,858 - #48 bodovi
+INFO  21:52:26,858 - #20 +
+INFO  21:52:26,858 - #39 (
+INFO  21:52:26,858 - #48 pet
+INFO  21:52:26,858 - #22 *
+INFO  21:52:26,858 - #48 jedan
+INFO  21:52:26,858 - #21 -
+INFO  21:52:26,858 - #47 1
+INFO  21:52:26,858 - #40 )
+INFO  21:52:26,858 - #22 *
+INFO  21:52:26,858 - #48 bodovi
+INFO  21:52:26,858 - #21 -
+INFO  21:52:26,858 - #39 (
+INFO  21:52:26,858 - #47 3
+INFO  21:52:26,859 - #24 %
+INFO  21:52:26,859 - #47 2
+INFO  21:52:26,859 - #20 +
+INFO  21:52:26,859 - #47 3
+INFO  21:52:26,861 - #22 *
+INFO  21:52:26,861 - #47 2
+INFO  21:52:26,861 - #21 -
+INFO  21:52:26,861 - #47 3
+INFO  21:52:26,861 - #40 )
+INFO  21:52:26,861 - #36 ;
+INFO  21:52:26,861 - #13 print
+INFO  21:52:26,861 - #39 (
+INFO  21:52:26,861 - #48 bodovi
+INFO  21:52:26,861 - #40 )
+INFO  21:52:26,861 - #36 ;
+INFO  21:52:26,861 - #14 read
+INFO  21:52:26,861 - #39 (
+INFO  21:52:26,861 - #48 bodovi
+INFO  21:52:26,861 - #40 )
+INFO  21:52:26,861 - #36 ;
+INFO  21:52:26,861 - #48 bt
+INFO  21:52:26,861 - #33 =
+INFO  21:52:26,862 - #49 true
+INFO  21:52:26,862 - #36 ;
+INFO  21:52:26,862 - #13 print
+INFO  21:52:26,862 - #39 (
+INFO  21:52:26,862 - #48 bt
+INFO  21:52:26,862 - #45 ?
+INFO  21:52:26,862 - #48 bodovi
+INFO  21:52:26,862 - #46 :
+INFO  21:52:26,862 - #48 bodovi
+INFO  21:52:26,862 - #20 +
+INFO  21:52:26,862 - #47 10
+INFO  21:52:26,862 - #40 )
+INFO  21:52:26,862 - #36 ;
+INFO  21:52:26,862 - #13 print
+INFO  21:52:26,862 - #39 (
+INFO  21:52:26,863 - #49 false
+INFO  21:52:26,863 - #45 ?
+INFO  21:52:26,863 - #48 bodovi
+INFO  21:52:26,863 - #20 +
+INFO  21:52:26,863 - #47 20
+INFO  21:52:26,863 - #46 :
+INFO  21:52:26,863 - #48 bodovi
+INFO  21:52:26,863 - #20 +
+INFO  21:52:26,863 - #47 30
+INFO  21:52:26,863 - #40 )
+INFO  21:52:26,863 - #36 ;
+INFO  21:52:26,863 - #44 }
+INFO  21:52:26,863 - #44 }
+INFO  21:52:26,871 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  DeclListMore(
+    DeclListMore(
+      DeclListMore(
+        DeclListMore(
+          DeclListMore(
+            NoDeclList(
+            ) [NoDeclList]
+            ConstDeclarations(
+              ConstDecl(
+                Type(
+                 int
+                ) [Type]
+                ConstListTerminate(
+                  ConstNum(
+                   nula
+                   0
+                  ) [ConstNum]
+                ) [ConstListTerminate]
+              ) [ConstDecl]
+            ) [ConstDeclarations]
+          ) [DeclListMore]
+          ConstDeclarations(
+            ConstDecl(
+              Type(
+               int
+              ) [Type]
+              ConstListTerminate(
+                ConstNum(
+                 jedan
+                 1
+                ) [ConstNum]
+              ) [ConstListTerminate]
+            ) [ConstDecl]
+          ) [ConstDeclarations]
+        ) [DeclListMore]
+        ConstDeclarations(
+          ConstDecl(
+            Type(
+             int
+            ) [Type]
+            ConstListTerminate(
+              ConstNum(
+               pet
+               5
+              ) [ConstNum]
+            ) [ConstListTerminate]
+          ) [ConstDecl]
+        ) [ConstDeclarations]
+      ) [DeclListMore]
+      VarDeclarations(
+        VarDeclar(
+          Type(
+           int
+          ) [Type]
+          VarListTerminate(
+            VarIdentif(
+             niz
+              Brackets(
+              ) [Brackets]
+            ) [VarIdentif]
+          ) [VarListTerminate]
+        ) [VarDeclar]
+      ) [VarDeclarations]
+    ) [DeclListMore]
+    VarDeclarations(
+      VarDeclar(
+        Type(
+         char
+        ) [Type]
+        VarListTerminate(
+          VarIdentif(
+           nizch
+            Brackets(
+            ) [Brackets]
+          ) [VarIdentif]
+        ) [VarListTerminate]
+      ) [VarDeclar]
+    ) [VarDeclarations]
+  ) [DeclListMore]
+  MethodDeclListMore(
+    NoMethodDeclList(
+    ) [NoMethodDeclList]
+    MethodDeclWithFormPars(
+      MethTypeName(
+        Type(
+         int
+        ) [Type]
+       zbir
+      ) [MethTypeName]
+      FormPars(
+        FormParsListMore(
+          FormParsListTerminate(
+            FormPar(
+              Type(
+               int
+              ) [Type]
+             x
+              NoBrackets(
+              ) [NoBrackets]
+            ) [FormPar]
+          ) [FormParsListTerminate]
+          FormPar(
+            Type(
+             int
+            ) [Type]
+           y
+            NoBrackets(
+            ) [NoBrackets]
+          ) [FormPar]
+        ) [FormParsListMore]
+      ) [FormPars]
+      VarDeclListMore(
+        VarDeclListMore(
+          VarDeclListMore(
+            NoVarDeclList(
+            ) [NoVarDeclList]
+            VarDeclError(
+              VarListTerminate(
+                VarIdentif(
+                 suma
+                  NoBrackets(
+                  ) [NoBrackets]
+                ) [VarIdentif]
+              ) [VarListTerminate]
+            ) [VarDeclError]
+          ) [VarDeclListMore]
+          VarDeclError(
+            VarListTerminate(
+              VarIdentif(
+               bodovi
+                NoBrackets(
+                ) [NoBrackets]
+              ) [VarIdentif]
+            ) [VarListTerminate]
+          ) [VarDeclError]
+        ) [VarDeclListMore]
+        VarDeclar(
+          Type(
+           bool
+          ) [Type]
+          VarListTerminate(
+            VarIdentif(
+             bt
+              NoBrackets(
+              ) [NoBrackets]
+            ) [VarIdentif]
+          ) [VarListTerminate]
+        ) [VarDeclar]
+      ) [VarDeclListMore]
+      StatementListMore(
+        StatementListMore(
+          StatementListMore(
+            StatementListMore(
+              StatementListMore(
+                StatementListMore(
+                  StatementListMore(
+                    StatementListMore(
+                      StatementListMore(
+                        StatementListMore(
+                          StatementListMore(
+                            StatementListMore(
+                              StatementListMore(
+                                StatementListMore(
+                                  StatementListMore(
+                                    StatementListMore(
+                                      StatementListMore(
+                                        StatementListMore(
+                                          StatementListMore(
+                                            StatementListMore(
+                                              StatementListMore(
+                                                StatementListMore(
+                                                  StatementListMore(
+                                                    StatementListMore(
+                                                      StatementListMore(
+                                                        NoStatementList(
+                                                        ) [NoStatementList]
+                                                        DesigStat(
+                                                          DesigStatAssingopExpr(
+                                                            DesignatorIdent(
+                                                             bodovi
+                                                            ) [DesignatorIdent]
+                                                            NoTernaryOperator(
+                                                              Expr12(
+                                                                TermTerminate(
+                                                                  FactNum(
+                                                                   0
+                                                                  ) [FactNum]
+                                                                ) [TermTerminate]
+                                                                NoAddopTermList(
+                                                                ) [NoAddopTermList]
+                                                              ) [Expr12]
+                                                            ) [NoTernaryOperator]
+                                                          ) [DesigStatAssingopExpr]
+                                                        ) [DesigStat]
+                                                      ) [StatementListMore]
+                                                      DesigStat(
+                                                        DesigStatPlusPlus(
+                                                          DesignatorIdent(
+                                                           bodovi
+                                                          ) [DesignatorIdent]
+                                                        ) [DesigStatPlusPlus]
+                                                      ) [DesigStat]
+                                                    ) [StatementListMore]
+                                                    DesigStat(
+                                                      DesigStatAssingopExpr(
+                                                        DesignatorIdent(
+                                                         bodovi
+                                                        ) [DesignatorIdent]
+                                                        NoTernaryOperator(
+                                                          Expr12(
+                                                            TermTerminate(
+                                                              FactDesign(
+                                                                DesignatorIdent(
+                                                                 bodovi
+                                                                ) [DesignatorIdent]
+                                                              ) [FactDesign]
+                                                            ) [TermTerminate]
+                                                            AddopTermListMore(
+                                                              NoAddopTermList(
+                                                              ) [NoAddopTermList]
+                                                              AddopPlus(
+                                                              ) [AddopPlus]
+                                                              TermTerminate(
+                                                                FactDesign(
+                                                                  DesignatorIdent(
+                                                                   jedan
+                                                                  ) [DesignatorIdent]
+                                                                ) [FactDesign]
+                                                              ) [TermTerminate]
+                                                            ) [AddopTermListMore]
+                                                          ) [Expr12]
+                                                        ) [NoTernaryOperator]
+                                                      ) [DesigStatAssingopExpr]
+                                                    ) [DesigStat]
+                                                  ) [StatementListMore]
+                                                  DesigStat(
+                                                    DesigStatAssingopExpr(
+                                                      DesignatorIdent(
+                                                       bodovi
+                                                      ) [DesignatorIdent]
+                                                      NoTernaryOperator(
+                                                        Expr12(
+                                                          TermNoTerminate(
+                                                            TermTerminate(
+                                                              FactDesign(
+                                                                DesignatorIdent(
+                                                                 bodovi
+                                                                ) [DesignatorIdent]
+                                                              ) [FactDesign]
+                                                            ) [TermTerminate]
+                                                            MulMulop(
+                                                            ) [MulMulop]
+                                                            FactDesign(
+                                                              DesignatorIdent(
+                                                               pet
+                                                              ) [DesignatorIdent]
+                                                            ) [FactDesign]
+                                                          ) [TermNoTerminate]
+                                                          NoAddopTermList(
+                                                          ) [NoAddopTermList]
+                                                        ) [Expr12]
+                                                      ) [NoTernaryOperator]
+                                                    ) [DesigStatAssingopExpr]
+                                                  ) [DesigStat]
+                                                ) [StatementListMore]
+                                                DesigStat(
+                                                  DesigStatMinusMinus(
+                                                    DesignatorIdent(
+                                                     bodovi
+                                                    ) [DesignatorIdent]
+                                                  ) [DesigStatMinusMinus]
+                                                ) [DesigStat]
+                                              ) [StatementListMore]
+                                              PrintStat(
+                                                NoTernaryOperator(
+                                                  Expr12(
+                                                    TermTerminate(
+                                                      FactDesign(
+                                                        DesignatorIdent(
+                                                         bodovi
+                                                        ) [DesignatorIdent]
+                                                      ) [FactDesign]
+                                                    ) [TermTerminate]
+                                                    NoAddopTermList(
+                                                    ) [NoAddopTermList]
+                                                  ) [Expr12]
+                                                ) [NoTernaryOperator]
+                                              ) [PrintStat]
+                                            ) [StatementListMore]
+                                            DesigStat(
+                                              DesigStatAssingopExpr(
+                                                DesignatorIdent(
+                                                 niz
+                                                ) [DesignatorIdent]
+                                                NoTernaryOperator(
+                                                  Expr12(
+                                                    TermTerminate(
+                                                      FactNewArray(
+                                                        Type(
+                                                         int
+                                                        ) [Type]
+                                                        NoTernaryOperator(
+                                                          Expr12(
+                                                            TermTerminate(
+                                                              FactNum(
+                                                               3
+                                                              ) [FactNum]
+                                                            ) [TermTerminate]
+                                                            NoAddopTermList(
+                                                            ) [NoAddopTermList]
+                                                          ) [Expr12]
+                                                        ) [NoTernaryOperator]
+                                                      ) [FactNewArray]
+                                                    ) [TermTerminate]
+                                                    NoAddopTermList(
+                                                    ) [NoAddopTermList]
+                                                  ) [Expr12]
+                                                ) [NoTernaryOperator]
+                                              ) [DesigStatAssingopExpr]
+                                            ) [DesigStat]
+                                          ) [StatementListMore]
+                                          DesigStat(
+                                            DesigStatAssingopExpr(
+                                              DesignatorExpr(
+                                                DesignatorIdent(
+                                                 niz
+                                                ) [DesignatorIdent]
+                                                NoTernaryOperator(
+                                                  Expr12(
+                                                    TermTerminate(
+                                                      FactDesign(
+                                                        DesignatorIdent(
+                                                         nula
+                                                        ) [DesignatorIdent]
+                                                      ) [FactDesign]
+                                                    ) [TermTerminate]
+                                                    NoAddopTermList(
+                                                    ) [NoAddopTermList]
+                                                  ) [Expr12]
+                                                ) [NoTernaryOperator]
+                                              ) [DesignatorExpr]
+                                              NoTernaryOperator(
+                                                Expr12(
+                                                  TermTerminate(
+                                                    FactDesign(
+                                                      DesignatorIdent(
+                                                       jedan
+                                                      ) [DesignatorIdent]
+                                                    ) [FactDesign]
+                                                  ) [TermTerminate]
+                                                  NoAddopTermList(
+                                                  ) [NoAddopTermList]
+                                                ) [Expr12]
+                                              ) [NoTernaryOperator]
+                                            ) [DesigStatAssingopExpr]
+                                          ) [DesigStat]
+                                        ) [StatementListMore]
+                                        DesigStat(
+                                          DesigStatAssingopExpr(
+                                            DesignatorExpr(
+                                              DesignatorIdent(
+                                               niz
+                                              ) [DesignatorIdent]
+                                              NoTernaryOperator(
+                                                Expr12(
+                                                  TermTerminate(
+                                                    FactNum(
+                                                     1
+                                                    ) [FactNum]
+                                                  ) [TermTerminate]
+                                                  NoAddopTermList(
+                                                  ) [NoAddopTermList]
+                                                ) [Expr12]
+                                              ) [NoTernaryOperator]
+                                            ) [DesignatorExpr]
+                                            NoTernaryOperator(
+                                              Expr12(
+                                                TermTerminate(
+                                                  FactNum(
+                                                   2
+                                                  ) [FactNum]
+                                                ) [TermTerminate]
+                                                NoAddopTermList(
+                                                ) [NoAddopTermList]
+                                              ) [Expr12]
+                                            ) [NoTernaryOperator]
+                                          ) [DesigStatAssingopExpr]
+                                        ) [DesigStat]
+                                      ) [StatementListMore]
+                                      DesigStat(
+                                        DesigStatAssingopExpr(
+                                          DesignatorExpr(
+                                            DesignatorIdent(
+                                             niz
+                                            ) [DesignatorIdent]
+                                            NoTernaryOperator(
+                                              Expr12(
+                                                TermTerminate(
+                                                  FactDesign(
+                                                    DesignatorExpr(
+                                                      DesignatorIdent(
+                                                       niz
+                                                      ) [DesignatorIdent]
+                                                      NoTernaryOperator(
+                                                        Expr12(
+                                                          TermTerminate(
+                                                            FactDesign(
+                                                              DesignatorIdent(
+                                                               jedan
+                                                              ) [DesignatorIdent]
+                                                            ) [FactDesign]
+                                                          ) [TermTerminate]
+                                                          NoAddopTermList(
+                                                          ) [NoAddopTermList]
+                                                        ) [Expr12]
+                                                      ) [NoTernaryOperator]
+                                                    ) [DesignatorExpr]
+                                                  ) [FactDesign]
+                                                ) [TermTerminate]
+                                                NoAddopTermList(
+                                                ) [NoAddopTermList]
+                                              ) [Expr12]
+                                            ) [NoTernaryOperator]
+                                          ) [DesignatorExpr]
+                                          NoTernaryOperator(
+                                            Expr12(
+                                              TermNoTerminate(
+                                                TermTerminate(
+                                                  FactDesign(
+                                                    DesignatorExpr(
+                                                      DesignatorIdent(
+                                                       niz
+                                                      ) [DesignatorIdent]
+                                                      NoTernaryOperator(
+                                                        Expr12(
+                                                          TermTerminate(
+                                                            FactDesign(
+                                                              DesignatorExpr(
+                                                                DesignatorIdent(
+                                                                 niz
+                                                                ) [DesignatorIdent]
+                                                                NoTernaryOperator(
+                                                                  Expr12(
+                                                                    TermTerminate(
+                                                                      FactNum(
+                                                                       0
+                                                                      ) [FactNum]
+                                                                    ) [TermTerminate]
+                                                                    NoAddopTermList(
+                                                                    ) [NoAddopTermList]
+                                                                  ) [Expr12]
+                                                                ) [NoTernaryOperator]
+                                                              ) [DesignatorExpr]
+                                                            ) [FactDesign]
+                                                          ) [TermTerminate]
+                                                          NoAddopTermList(
+                                                          ) [NoAddopTermList]
+                                                        ) [Expr12]
+                                                      ) [NoTernaryOperator]
+                                                    ) [DesignatorExpr]
+                                                  ) [FactDesign]
+                                                ) [TermTerminate]
+                                                MulMulop(
+                                                ) [MulMulop]
+                                                FactNum(
+                                                 3
+                                                ) [FactNum]
+                                              ) [TermNoTerminate]
+                                              NoAddopTermList(
+                                              ) [NoAddopTermList]
+                                            ) [Expr12]
+                                          ) [NoTernaryOperator]
+                                        ) [DesigStatAssingopExpr]
+                                      ) [DesigStat]
+                                    ) [StatementListMore]
+                                    DesigStat(
+                                      DesigStatAssingopExpr(
+                                        DesignatorIdent(
+                                         bodovi
+                                        ) [DesignatorIdent]
+                                        NoTernaryOperator(
+                                          Expr12(
+                                            TermNoTerminate(
+                                              TermTerminate(
+                                                FactDesign(
+                                                  DesignatorExpr(
+                                                    DesignatorIdent(
+                                                     niz
+                                                    ) [DesignatorIdent]
+                                                    NoTernaryOperator(
+                                                      Expr12(
+                                                        TermTerminate(
+                                                          FactNum(
+                                                           2
+                                                          ) [FactNum]
+                                                        ) [TermTerminate]
+                                                        NoAddopTermList(
+                                                        ) [NoAddopTermList]
+                                                      ) [Expr12]
+                                                    ) [NoTernaryOperator]
+                                                  ) [DesignatorExpr]
+                                                ) [FactDesign]
+                                              ) [TermTerminate]
+                                              DivMulop(
+                                              ) [DivMulop]
+                                              FactDesign(
+                                                DesignatorExpr(
+                                                  DesignatorIdent(
+                                                   niz
+                                                  ) [DesignatorIdent]
+                                                  NoTernaryOperator(
+                                                    Expr12(
+                                                      TermTerminate(
+                                                        FactNum(
+                                                         0
+                                                        ) [FactNum]
+                                                      ) [TermTerminate]
+                                                      NoAddopTermList(
+                                                      ) [NoAddopTermList]
+                                                    ) [Expr12]
+                                                  ) [NoTernaryOperator]
+                                                ) [DesignatorExpr]
+                                              ) [FactDesign]
+                                            ) [TermNoTerminate]
+                                            NoAddopTermList(
+                                            ) [NoAddopTermList]
+                                          ) [Expr12]
+                                        ) [NoTernaryOperator]
+                                      ) [DesigStatAssingopExpr]
+                                    ) [DesigStat]
+                                  ) [StatementListMore]
+                                  PrintStat(
+                                    NoTernaryOperator(
+                                      Expr12(
+                                        TermTerminate(
+                                          FactDesign(
+                                            DesignatorIdent(
+                                             bodovi
+                                            ) [DesignatorIdent]
+                                          ) [FactDesign]
+                                        ) [TermTerminate]
+                                        NoAddopTermList(
+                                        ) [NoAddopTermList]
+                                      ) [Expr12]
+                                    ) [NoTernaryOperator]
+                                  ) [PrintStat]
+                                ) [StatementListMore]
+                                PrintStat(
+                                  NoTernaryOperator(
+                                    Expr12(
+                                      TermTerminate(
+                                        FactDesign(
+                                          DesignatorExpr(
+                                            DesignatorIdent(
+                                             niz
+                                            ) [DesignatorIdent]
+                                            NoTernaryOperator(
+                                              Expr12(
+                                                TermTerminate(
+                                                  FactNum(
+                                                   2
+                                                  ) [FactNum]
+                                                ) [TermTerminate]
+                                                NoAddopTermList(
+                                                ) [NoAddopTermList]
+                                              ) [Expr12]
+                                            ) [NoTernaryOperator]
+                                          ) [DesignatorExpr]
+                                        ) [FactDesign]
+                                      ) [TermTerminate]
+                                      NoAddopTermList(
+                                      ) [NoAddopTermList]
+                                    ) [Expr12]
+                                  ) [NoTernaryOperator]
+                                ) [PrintStat]
+                              ) [StatementListMore]
+                              DesigStat(
+                                DesigStatAssingopExpr(
+                                  DesignatorIdent(
+                                   nizch
+                                  ) [DesignatorIdent]
+                                  NoTernaryOperator(
+                                    Expr12(
+                                      TermTerminate(
+                                        FactNewArray(
+                                          Type(
+                                           char
+                                          ) [Type]
+                                          NoTernaryOperator(
+                                            Expr12(
+                                              TermTerminate(
+                                                FactNum(
+                                                 3
+                                                ) [FactNum]
+                                              ) [TermTerminate]
+                                              NoAddopTermList(
+                                              ) [NoAddopTermList]
+                                            ) [Expr12]
+                                          ) [NoTernaryOperator]
+                                        ) [FactNewArray]
+                                      ) [TermTerminate]
+                                      NoAddopTermList(
+                                      ) [NoAddopTermList]
+                                    ) [Expr12]
+                                  ) [NoTernaryOperator]
+                                ) [DesigStatAssingopExpr]
+                              ) [DesigStat]
+                            ) [StatementListMore]
+                            DesigStat(
+                              DesigStatAssingopExpr(
+                                DesignatorExpr(
+                                  DesignatorIdent(
+                                   nizch
+                                  ) [DesignatorIdent]
+                                  NoTernaryOperator(
+                                    Expr12(
+                                      TermTerminate(
+                                        FactNum(
+                                         0
+                                        ) [FactNum]
+                                      ) [TermTerminate]
+                                      NoAddopTermList(
+                                      ) [NoAddopTermList]
+                                    ) [Expr12]
+                                  ) [NoTernaryOperator]
+                                ) [DesignatorExpr]
+                                NoTernaryOperator(
+                                  Expr12(
+                                    TermTerminate(
+                                      FactChar(
+                                       a
+                                      ) [FactChar]
+                                    ) [TermTerminate]
+                                    NoAddopTermList(
+                                    ) [NoAddopTermList]
+                                  ) [Expr12]
+                                ) [NoTernaryOperator]
+                              ) [DesigStatAssingopExpr]
+                            ) [DesigStat]
+                          ) [StatementListMore]
+                          DesigStat(
+                            DesigStatAssingopExpr(
+                              DesignatorExpr(
+                                DesignatorIdent(
+                                 nizch
+                                ) [DesignatorIdent]
+                                NoTernaryOperator(
+                                  Expr12(
+                                    TermTerminate(
+                                      FactDesign(
+                                        DesignatorIdent(
+                                         jedan
+                                        ) [DesignatorIdent]
+                                      ) [FactDesign]
+                                    ) [TermTerminate]
+                                    NoAddopTermList(
+                                    ) [NoAddopTermList]
+                                  ) [Expr12]
+                                ) [NoTernaryOperator]
+                              ) [DesignatorExpr]
+                              NoTernaryOperator(
+                                Expr12(
+                                  TermTerminate(
+                                    FactChar(
+                                     b
+                                    ) [FactChar]
+                                  ) [TermTerminate]
+                                  NoAddopTermList(
+                                  ) [NoAddopTermList]
+                                ) [Expr12]
+                              ) [NoTernaryOperator]
+                            ) [DesigStatAssingopExpr]
+                          ) [DesigStat]
+                        ) [StatementListMore]
+                        DesigStat(
+                          DesigStatAssingopExpr(
+                            DesignatorExpr(
+                              DesignatorIdent(
+                               nizch
+                              ) [DesignatorIdent]
+                              NoTernaryOperator(
+                                Expr12(
+                                  TermTerminate(
+                                    FactDesign(
+                                      DesignatorIdent(
+                                       pet
+                                      ) [DesignatorIdent]
+                                    ) [FactDesign]
+                                  ) [TermTerminate]
+                                  AddopTermListMore(
+                                    NoAddopTermList(
+                                    ) [NoAddopTermList]
+                                    AddopMinus(
+                                    ) [AddopMinus]
+                                    TermTerminate(
+                                      FactNum(
+                                       3
+                                      ) [FactNum]
+                                    ) [TermTerminate]
+                                  ) [AddopTermListMore]
+                                ) [Expr12]
+                              ) [NoTernaryOperator]
+                            ) [DesignatorExpr]
+                            NoTernaryOperator(
+                              Expr12(
+                                TermTerminate(
+                                  FactChar(
+                                   c
+                                  ) [FactChar]
+                                ) [TermTerminate]
+                                NoAddopTermList(
+                                ) [NoAddopTermList]
+                              ) [Expr12]
+                            ) [NoTernaryOperator]
+                          ) [DesigStatAssingopExpr]
+                        ) [DesigStat]
+                      ) [StatementListMore]
+                      PrintStat(
+                        NoTernaryOperator(
+                          Expr12(
+                            TermTerminate(
+                              FactDesign(
+                                DesignatorExpr(
+                                  DesignatorIdent(
+                                   nizch
+                                  ) [DesignatorIdent]
+                                  NoTernaryOperator(
+                                    Expr12(
+                                      TermTerminate(
+                                        FactNum(
+                                         1
+                                        ) [FactNum]
+                                      ) [TermTerminate]
+                                      NoAddopTermList(
+                                      ) [NoAddopTermList]
+                                    ) [Expr12]
+                                  ) [NoTernaryOperator]
+                                ) [DesignatorExpr]
+                              ) [FactDesign]
+                            ) [TermTerminate]
+                            NoAddopTermList(
+                            ) [NoAddopTermList]
+                          ) [Expr12]
+                        ) [NoTernaryOperator]
+                      ) [PrintStat]
+                    ) [StatementListMore]
+                    PrintStat(
+                      NoTernaryOperator(
+                        Expr12(
+                          TermTerminate(
+                            FactDesign(
+                              DesignatorExpr(
+                                DesignatorIdent(
+                                 nizch
+                                ) [DesignatorIdent]
+                                NoTernaryOperator(
+                                  Expr12(
+                                    TermNoTerminate(
+                                      TermTerminate(
+                                        FactDesign(
+                                          DesignatorIdent(
+                                           jedan
+                                          ) [DesignatorIdent]
+                                        ) [FactDesign]
+                                      ) [TermTerminate]
+                                      MulMulop(
+                                      ) [MulMulop]
+                                      FactNum(
+                                       2
+                                      ) [FactNum]
+                                    ) [TermNoTerminate]
+                                    NoAddopTermList(
+                                    ) [NoAddopTermList]
+                                  ) [Expr12]
+                                ) [NoTernaryOperator]
+                              ) [DesignatorExpr]
+                            ) [FactDesign]
+                          ) [TermTerminate]
+                          NoAddopTermList(
+                          ) [NoAddopTermList]
+                        ) [Expr12]
+                      ) [NoTernaryOperator]
+                    ) [PrintStat]
+                  ) [StatementListMore]
+                  DesigStat(
+                    DesigStatAssingopExpr(
+                      DesignatorIdent(
+                       bodovi
+                      ) [DesignatorIdent]
+                      NoTernaryOperator(
+                        Expr12(
+                          TermTerminate(
+                            FactDesign(
+                              DesignatorIdent(
+                               bodovi
+                              ) [DesignatorIdent]
+                            ) [FactDesign]
+                          ) [TermTerminate]
+                          AddopTermListMore(
+                            AddopTermListMore(
+                              NoAddopTermList(
+                              ) [NoAddopTermList]
+                              AddopPlus(
+                              ) [AddopPlus]
+                              TermNoTerminate(
+                                TermTerminate(
+                                  FactExpr(
+                                    NoTernaryOperator(
+                                      Expr12(
+                                        TermNoTerminate(
+                                          TermTerminate(
+                                            FactDesign(
+                                              DesignatorIdent(
+                                               pet
+                                              ) [DesignatorIdent]
+                                            ) [FactDesign]
+                                          ) [TermTerminate]
+                                          MulMulop(
+                                          ) [MulMulop]
+                                          FactDesign(
+                                            DesignatorIdent(
+                                             jedan
+                                            ) [DesignatorIdent]
+                                          ) [FactDesign]
+                                        ) [TermNoTerminate]
+                                        AddopTermListMore(
+                                          NoAddopTermList(
+                                          ) [NoAddopTermList]
+                                          AddopMinus(
+                                          ) [AddopMinus]
+                                          TermTerminate(
+                                            FactNum(
+                                             1
+                                            ) [FactNum]
+                                          ) [TermTerminate]
+                                        ) [AddopTermListMore]
+                                      ) [Expr12]
+                                    ) [NoTernaryOperator]
+                                  ) [FactExpr]
+                                ) [TermTerminate]
+                                MulMulop(
+                                ) [MulMulop]
+                                FactDesign(
+                                  DesignatorIdent(
+                                   bodovi
+                                  ) [DesignatorIdent]
+                                ) [FactDesign]
+                              ) [TermNoTerminate]
+                            ) [AddopTermListMore]
+                            AddopMinus(
+                            ) [AddopMinus]
+                            TermTerminate(
+                              FactExpr(
+                                NoTernaryOperator(
+                                  Expr12(
+                                    TermNoTerminate(
+                                      TermTerminate(
+                                        FactNum(
+                                         3
+                                        ) [FactNum]
+                                      ) [TermTerminate]
+                                      ModMulop(
+                                      ) [ModMulop]
+                                      FactNum(
+                                       2
+                                      ) [FactNum]
+                                    ) [TermNoTerminate]
+                                    AddopTermListMore(
+                                      AddopTermListMore(
+                                        NoAddopTermList(
+                                        ) [NoAddopTermList]
+                                        AddopPlus(
+                                        ) [AddopPlus]
+                                        TermNoTerminate(
+                                          TermTerminate(
+                                            FactNum(
+                                             3
+                                            ) [FactNum]
+                                          ) [TermTerminate]
+                                          MulMulop(
+                                          ) [MulMulop]
+                                          FactNum(
+                                           2
+                                          ) [FactNum]
+                                        ) [TermNoTerminate]
+                                      ) [AddopTermListMore]
+                                      AddopMinus(
+                                      ) [AddopMinus]
+                                      TermTerminate(
+                                        FactNum(
+                                         3
+                                        ) [FactNum]
+                                      ) [TermTerminate]
+                                    ) [AddopTermListMore]
+                                  ) [Expr12]
+                                ) [NoTernaryOperator]
+                              ) [FactExpr]
+                            ) [TermTerminate]
+                          ) [AddopTermListMore]
+                        ) [Expr12]
+                      ) [NoTernaryOperator]
+                    ) [DesigStatAssingopExpr]
+                  ) [DesigStat]
+                ) [StatementListMore]
+                PrintStat(
+                  NoTernaryOperator(
+                    Expr12(
+                      TermTerminate(
+                        FactDesign(
+                          DesignatorIdent(
+                           bodovi
+                          ) [DesignatorIdent]
+                        ) [FactDesign]
+                      ) [TermTerminate]
+                      NoAddopTermList(
+                      ) [NoAddopTermList]
+                    ) [Expr12]
+                  ) [NoTernaryOperator]
+                ) [PrintStat]
+              ) [StatementListMore]
+              ReadStat(
+                DesignatorIdent(
+                 bodovi
+                ) [DesignatorIdent]
+              ) [ReadStat]
+            ) [StatementListMore]
+            DesigStat(
+              DesigStatAssingopExpr(
+                DesignatorIdent(
+                 bt
+                ) [DesignatorIdent]
+                NoTernaryOperator(
+                  Expr12(
+                    TermTerminate(
+                      FactBool(
+                       true
+                      ) [FactBool]
+                    ) [TermTerminate]
+                    NoAddopTermList(
+                    ) [NoAddopTermList]
+                  ) [Expr12]
+                ) [NoTernaryOperator]
+              ) [DesigStatAssingopExpr]
+            ) [DesigStat]
+          ) [StatementListMore]
+          PrintStat(
+            TernaryOperator(
+              Expr12(
+                TermTerminate(
+                  FactDesign(
+                    DesignatorIdent(
+                     bt
+                    ) [DesignatorIdent]
+                  ) [FactDesign]
+                ) [TermTerminate]
+                NoAddopTermList(
+                ) [NoAddopTermList]
+              ) [Expr12]
+              Expr12(
+                TermTerminate(
+                  FactDesign(
+                    DesignatorIdent(
+                     bodovi
+                    ) [DesignatorIdent]
+                  ) [FactDesign]
+                ) [TermTerminate]
+                NoAddopTermList(
+                ) [NoAddopTermList]
+              ) [Expr12]
+              Expr12(
+                TermTerminate(
+                  FactDesign(
+                    DesignatorIdent(
+                     bodovi
+                    ) [DesignatorIdent]
+                  ) [FactDesign]
+                ) [TermTerminate]
+                AddopTermListMore(
+                  NoAddopTermList(
+                  ) [NoAddopTermList]
+                  AddopPlus(
+                  ) [AddopPlus]
+                  TermTerminate(
+                    FactNum(
+                     10
+                    ) [FactNum]
+                  ) [TermTerminate]
+                ) [AddopTermListMore]
+              ) [Expr12]
+            ) [TernaryOperator]
+          ) [PrintStat]
+        ) [StatementListMore]
+        PrintStat(
+          TernaryOperator(
+            Expr12(
+              TermTerminate(
+                FactBool(
+                 false
+                ) [FactBool]
+              ) [TermTerminate]
+              NoAddopTermList(
+              ) [NoAddopTermList]
+            ) [Expr12]
+            Expr12(
+              TermTerminate(
+                FactDesign(
+                  DesignatorIdent(
+                   bodovi
+                  ) [DesignatorIdent]
+                ) [FactDesign]
+              ) [TermTerminate]
+              AddopTermListMore(
+                NoAddopTermList(
+                ) [NoAddopTermList]
+                AddopPlus(
+                ) [AddopPlus]
+                TermTerminate(
+                  FactNum(
+                   20
+                  ) [FactNum]
+                ) [TermTerminate]
+              ) [AddopTermListMore]
+            ) [Expr12]
+            Expr12(
+              TermTerminate(
+                FactDesign(
+                  DesignatorIdent(
+                   bodovi
+                  ) [DesignatorIdent]
+                ) [FactDesign]
+              ) [TermTerminate]
+              AddopTermListMore(
+                NoAddopTermList(
+                ) [NoAddopTermList]
+                AddopPlus(
+                ) [AddopPlus]
+                TermTerminate(
+                  FactNum(
+                   30
+                  ) [FactNum]
+                ) [TermTerminate]
+              ) [AddopTermListMore]
+            ) [Expr12]
+          ) [TernaryOperator]
+        ) [PrintStat]
+      ) [StatementListMore]
+    ) [MethodDeclWithFormPars]
+  ) [MethodDeclListMore]
+) [Program]
+INFO  21:52:26,873 - ===================================
+INFO  21:52:26,875 - Deklarisana konstanta nula koja je tipa :int na liniji 5
+INFO  21:52:26,875 - Deklarisana konstanta jedan koja je tipa :int na liniji 6
+INFO  21:52:26,875 - Deklarisana konstanta pet koja je tipa :int na liniji 7
+INFO  21:52:26,875 - Deklarisana promenljiva niz koja je tipa :int[] na liniji 9
+INFO  21:52:26,875 - Deklarisana promenljiva nizch koja je tipa :char[] na liniji 10
+INFO  21:52:26,875 - Deklarisan argument x koji je tipa :int na liniji 13
+INFO  21:52:26,876 - Deklarisan argument y koji je tipa :int na liniji 13
+INFO  21:52:26,876 - Deklarisana promenljiva suma koja je tipa :int na liniji 14
+INFO  21:52:26,876 - Deklarisana promenljiva bodovi koja je tipa :int na liniji 20
+INFO  21:52:26,876 - Deklarisana promenljiva bt koja je tipa :bool na liniji 21
+ERROR 21:52:26,876 - Vec deklarisana metodaaaaaaaaaaaaaaaa 13
+INFO  21:52:26,876 - ===================================
+ERROR 21:52:26,877 - Error: Nije deklarisana main funckija!
+ERROR 21:52:26,877 - Error: Neuspesno izvrsena semanticka analiza!!!
